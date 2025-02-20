@@ -60,5 +60,5 @@ Java语言，Mysql数据库，代码无加密
 
 #### 联系我们
 
-![extending-a-theme](/lianxi.jpg)
+![extending-a-theme](/lianxi.png)
 
